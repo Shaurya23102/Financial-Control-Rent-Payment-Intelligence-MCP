@@ -1,0 +1,9 @@
+[project]
+name = "property-management-mcp-server"
+version = "0.1.0"
+description = "AI-powered Property Management MCP Server - Rent tracking, tenant management, maintenance & analytics"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "fastmcp>=2.0.0",
+]
